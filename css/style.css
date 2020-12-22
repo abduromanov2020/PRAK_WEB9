@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+html {
+	position: relative;
+}
+
+.dark {
+	background: #111;
+	color: #eee;
+}
+nav {
+	height: 5rem;
+	background-color: #111;
+
+}
+
+.container {
+	margin: 3% auto;
+}
+
+h1, h3 {
+	font-family: 'Questrial', cursive;
+	font-weight: bold;
+}
+
+h3 {
+	margin: 1rem;
+}
+
+footer {
+	margin-top: 3rem;
+	position: absolute;
+	width: 100%;
+}
